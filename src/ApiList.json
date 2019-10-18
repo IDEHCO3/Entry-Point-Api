@@ -1,0 +1,18 @@
+{ 
+	"BCIM": "http://ggt-des.ibge.gov.br/api/bcim/",
+	"API IBGE": "http://ggt-des.ibge.gov.br/api/ibge/",
+	"OSM VIEWS": "http://ggt-des.ibge.gov.br/api/osm-2017-06/",
+	"ANALISE GEO": "http://ggt-des.ibge.gov.br/api/analise-geo/",
+	"DADOS ESTATISTICOS": "http://ggt-des.ibge.gov.br/api/estatistica-municipio/",
+	"MUNIC 2015": "http://ggt-des.ibge.gov.br/api/munic-2015/",
+	"PIB MUNICIPIO": "http://ggt-des.ibge.gov.br/api/pib-municipio/",
+	"PESQUISA ESPORTE": "http://ggt-des.ibge.gov.br/esporte-list/",
+	"EXPRESSION INTERFACE": "http://ggt-des.ibge.gov.br/expressions-list/",
+	"OPERATION INTERFACE": "http://ggt-des.ibge.gov.br/api/operations-list/",
+	"KANBAN": "http://ggt-des.ibge.gov.br/api/kanban/",
+	"IDEB": "http://ggt-des.ibge.gov.br/api/ideb-app-list/",
+	"BNDS": "http://ggt-des.ibge.gov.br/api/app-bndes-list/",
+	"CONTROLE DE ADESÃO": "http://ggt-des.ibge.gov.br/dev-api/controle-adesao-inde/",
+	"BIBLIOTECA DE ESTILOS": "http://ggt-des.ibge.gov.br/styles/",
+	"OSM (HYPER RESOURCE)": "http://ggt-des.ibge.gov.br/osm/"
+}
